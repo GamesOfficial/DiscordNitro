@@ -25,4 +25,4 @@ client.on("message", async message => {
   }
 })
 
-client.login('INSERT_YOUR_TOKEN');
+client.login('Insert-token');
